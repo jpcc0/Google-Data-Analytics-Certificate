@@ -9,19 +9,26 @@ You’ll prepare yourself for jobs that include junior or associate data analyst
 
 ## Courses Completed:
 Foundations: Data, Data,
-Everywhere
+Everywhere,
+
 Ask Questions to Make
-Data-Driven Decisions
+Data-Driven Decisions,
+
 Prepare Data for
-Exploration
+Exploration,
+
 Process Data from Dirty to
-Clean
+Clean,
+
 Analyze Data to Answer
-Questions
+Questions,
+
 Share Data Through the Art
-of Visualization
+of Visualization,
+
 Data Analysis with R
-Programming
+Programming,
+
 Google Data Analytics
 Capstone: Complete a Case
 Study
