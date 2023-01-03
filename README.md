@@ -6,3 +6,22 @@ Data analytics is the collection, transformation, and organization of data in or
 Over 8 courses, gain in-demand skills that prepare you for an entry-level job. You’ll learn from Google employees whose foundations in data analytics served as launchpads for their own careers. At under 10 hours per week, you can complete the certificate in less than 6 months.
 
 You’ll prepare yourself for jobs that include junior or associate data analyst, database administrator, and more. Upon completion of the certificate, you can directly apply for jobs with Google and over 130 U.S. employers, including Walmart, Best Buy, Astreya.
+
+## Courses Completed:
+Foundations: Data, Data,
+Everywhere
+Ask Questions to Make
+Data-Driven Decisions
+Prepare Data for
+Exploration
+Process Data from Dirty to
+Clean
+Analyze Data to Answer
+Questions
+Share Data Through the Art
+of Visualization
+Data Analysis with R
+Programming
+Google Data Analytics
+Capstone: Complete a Case
+Study
