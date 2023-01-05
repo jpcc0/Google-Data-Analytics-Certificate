@@ -9,27 +9,6 @@ Over 8 courses, gain in-demand skills that prepare you for an entry-level job. Y
 You’ll prepare yourself for jobs that include junior or associate data analyst, database administrator, and more. Upon completion of the certificate, you can directly apply for jobs with Google and over 130 U.S. employers, including Walmart, Best Buy, Astreya.
 
 ## Courses Completed:
-Foundations: Data, Data,
-Everywhere,
 
-Ask Questions to Make
-Data-Driven Decisions,
+![Google-Data-Analytics-Certificate](https://user-images.githubusercontent.com/97537360/210835296-c65dd84a-1cc2-4aa1-b6c2-d9fd12e42f15.png)
 
-Prepare Data for
-Exploration,
-
-Process Data from Dirty to
-Clean,
-
-Analyze Data to Answer
-Questions,
-
-Share Data Through the Art
-of Visualization,
-
-Data Analysis with R
-Programming,
-
-Google Data Analytics
-Capstone: Complete a Case
-Study
